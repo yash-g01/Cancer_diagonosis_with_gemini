@@ -1,2 +1,2 @@
 streamlit
-openai
+-q -U google-generativeai
