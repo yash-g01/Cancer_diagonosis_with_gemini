@@ -4,4 +4,3 @@ pandas
 plotly
 scikit_learn
 altair
-pickle5
