@@ -1,2 +1,8 @@
 streamlit
-openai
+numpy
+pandas
+pickle5
+plotly
+scikit_learn
+altair
+-q -U google-generativeai
