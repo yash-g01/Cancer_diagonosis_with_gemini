@@ -37,8 +37,11 @@ if uploaded_file and question:
             "content": f"Here's a document: {document} \n\n---\n\n {question}",
         }
     ]
+try:
     # Generate an answer using the Gemini API.
     model = genai.GenerativeModel("gemini-1.5-flash")
     response = model.generate_content(question)
     # Stream the response to the app using `st.write_stream`.
     st.write(response.text)
+except TypeError:
+   pass
