@@ -13,7 +13,7 @@ def get_clean_data():
     return data
 
 def cell_data():
-  st.write("Cell Nuclei Measurements :")
+  st.sidebar.header("Cell Nuclei Measurements :")
   
   data = get_clean_data()
   
