@@ -1,8 +1,8 @@
-# 📄 Document question answering template
+# Breast Cancer Diagnosis and Gemini
 
-A simple Streamlit app that answers questions about an uploaded document via OpenAI's GPT-3.5.
+A simple Streamlit app that answers questions via Google's Gen AI - Gemini and Predicts Brwast Cancer if Prompted for Taking Cytlogy Lab Data.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://document-question-answering-template.streamlit.app/)
+This project is hosted : https://yash-g01-cancer-diagonosis-with-gemini-streamlit-app-hytm3t.streamlit.app/
 
 ### How to run it on your own machine
 
