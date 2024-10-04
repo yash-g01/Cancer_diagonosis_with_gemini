@@ -124,7 +124,7 @@ def main():
 
     # Ask the user for a question via `st.text_area`.
     question = st.text_area(
-        "Now ask a question about cancer or type "Take Cytology Lab Data!",
+        "Now ask a question about cancer or type - Take Cytology Lab Data!",
         placeholder="Take my Cytology Lab Data."
     )
     
